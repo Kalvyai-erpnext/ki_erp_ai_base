@@ -88,7 +88,6 @@
    "default": "1",
    "fieldname": "enabled",
    "fieldtype": "Check",
-   "in_list_view": 1,
    "label": "Enabled"
   },
   {
@@ -275,6 +274,5 @@
  "search_fields": "provider_type,model_name",
  "sort_field": "priority",
  "sort_order": "ASC",
- "states": [],
- "title_field": "provider_name"
+ "states": []
 }
