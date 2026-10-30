@@ -1,0 +1,31 @@
+{
+ "app": "ki_erp_ai_base",
+ "bg_color": "gray",
+ "creation": "2026-10-30 21:33:06.755071",
+ "docstatus": 0,
+ "doctype": "Desktop Icon",
+ "hidden": 0,
+ "icon": "sparkles",
+ "icon_type": "Link",
+ "idx": 0,
+ "label": "AI Base",
+ "link_to": "AI Base",
+ "link_type": "Workspace Sidebar",
+ "modified": "2026-10-30 21:33:06.755071",
+ "modified_by": "Administrator",
+ "name": "AI Base",
+ "owner": "Administrator",
+ "restrict_removal": 0,
+ "roles": [
+  {
+   "role": "AI Manager"
+  },
+  {
+   "role": "AI User"
+  },
+  {
+   "role": "System Manager"
+  }
+ ],
+ "standard": 1
+}

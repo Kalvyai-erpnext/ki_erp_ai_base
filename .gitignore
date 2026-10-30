@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+__pycache__/
+.ruff_cache/
+node_modules/
+tags
+.playwright-mcp/
