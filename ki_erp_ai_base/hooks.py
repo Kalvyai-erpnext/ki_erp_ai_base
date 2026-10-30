@@ -3,7 +3,7 @@ app_title = "AI Base"
 app_publisher = "kalvyai"
 app_description = "Multi-provider AI connector for Frappe and ERPNext"
 app_email = "kalvyai.admin@gmail.com"
-app_license = "Other proprietary"
+app_license = "mit"
 
 # Apps
 # ------------------

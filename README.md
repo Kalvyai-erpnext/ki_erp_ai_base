@@ -111,7 +111,7 @@ except AIError as error:
 
 ```bash
 cd $PATH_TO_YOUR_BENCH
-bench get-app $URL_OF_THIS_REPO --branch version-16
+bench get-app https://github.com/Kalvyai-erpnext/ki_erp_ai_base --branch version-16
 bench install-app ki_erp_ai_base
 ```
 
@@ -125,14 +125,6 @@ bench --site <site> set-config allow_tests true
 bench --site <site> run-tests --app ki_erp_ai_base
 ```
 
-### Licence and support
+### License
 
-- Licence: KalvyAI Software Licence Agreement (proprietary). Full text in
-  [license.txt](license.txt). One production Frappe site per licence, plus its staging, test and
-  development copies.
-- Apps that only depend on `ki_erp_ai_base` may be written and sold freely; each site running them
-  needs its own licence of this app.
-- 90 days of free support and free updates: support@kalvyai.com
-- Licensing: kalvyai.admin@gmail.com
-
-Copyright (c) 2026 KalvyAI. All Rights Reserved.
+MIT. Free and open source. Support: support@kalvyai.com or GitHub issues.
