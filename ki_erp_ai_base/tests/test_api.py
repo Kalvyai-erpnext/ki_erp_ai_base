@@ -7,7 +7,7 @@ from ki_erp_ai_base import usage
 from ki_erp_ai_base.api import AIError, generate, get_providers
 from ki_erp_ai_base.tests.utils import PDF, POST, REPLIES, ProviderTestCase, chat_reply, response
 
-COMPANY = "Kalvy Demo"  # demo data of the development site
+COMPANY = "Kalvyai Demo"  # demo data of the development site
 
 
 class TestApi(ProviderTestCase):
